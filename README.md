@@ -28,14 +28,12 @@ ng help
 # Run Project
 ng serve or ng serve --open
 
-# You will find the Localhost then.
+Open it from http://localhost:4200/
 
 # To clean the cache:
-
-# npm cache clean
+npm cache clean
 
 # Run the following commands when error :
-
 npm uninstall -g @angular/cli
 npm cache verify
 npm install -g @angular/cli@next
